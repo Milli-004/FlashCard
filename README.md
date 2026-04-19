@@ -1,4 +1,4 @@
-# 🚀 CardVault — Student Management Suite
+# 🚀 CardVault — Student Flash Card
 
 > A production-ready **MERN stack** web application built for managing student records — complete with secure JWT authentication, cloud image storage via Cloudinary, lightning-fast search, smart filtering, and seamless pagination.
 
